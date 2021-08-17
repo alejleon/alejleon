@@ -1,6 +1,17 @@
-### Hi there 👋
+### Howdy 👋🗣
+### My name is Alejandro Hernandez! 
 
-My name is Alejandro Hernandez!
+---
+
+linkedin.com/in/alej-leon
+
+
+- 💻 Full stack software developer with a marketing background 📈
+- 📍 Based in Austin, TX 
+- 📻 Avid music lover and record collector
+
+#### Tools and Technologies
+
 
 
 
