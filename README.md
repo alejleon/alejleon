@@ -2,8 +2,8 @@
 ### My name is Alejandro Hernandez! 
 
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&label=alej.leon4&logoColor=#EA4335) <br /> 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&label=alej-leon&logoColor=dodgerblue) 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoWidth=20&label=alej.leon4&logoColor=#EA4335) 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoWidth=20&label=alej-leon&logoColor=dodgerblue) 
 
 ---
 It took me 30 years to realize how much I enjoy  the knowledge of how things work on the inside, working with technology, and elegant utilitarianism. I took more than a few detours but I'm finally home as a software developer.
