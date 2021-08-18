@@ -1,13 +1,13 @@
-### Howdy 👋🗣
+### 🗣 Howdy 👋
 ### My name is Alejandro Hernandez! 
 
 ---
-It took me 30 years to realize how much I enjoy working with technology, knowing how things work on the inside, and elegant utilitarianism. I took more than a few detours but I'm finally home as a software developer.
+It took me 30 years to realize how much I enjoy  the knowledge of how things work on the inside, working with technology, and elegant utilitarianism. I took more than a few detours but I'm finally home as a software developer.
 
 
-- 💻 Full stack software developer with a marketing background 📈 and an eye for detailed design 🎨
+- 💻 Full stack software developer with a marketing background 📈 and an eye for design 🎨
 - 📍 Based in Austin, TX 
-- 📻 Avid music lover and record collector
+- 🎧 Avid music lover and record collector
 
 #### Tools and Technologies
 
