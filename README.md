@@ -1,7 +1,9 @@
 ### 🗣 Howdy 👋
 ### My name is Alejandro Hernandez! 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&label=alej.leon4&logoColor=#EA4335) <br /> 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&label=alej-leon&logoColor=dodgerblue) 
 
 ---
 It took me 30 years to realize how much I enjoy  the knowledge of how things work on the inside, working with technology, and elegant utilitarianism. I took more than a few detours but I'm finally home as a software developer.
@@ -12,6 +14,7 @@ It took me 30 years to realize how much I enjoy  the knowledge of how things wor
 - 🎧 Avid music lover and record collector
 
 #### Tools and Technologies
+
 
 
 
