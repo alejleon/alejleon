@@ -2,7 +2,7 @@
 ### My name is Alejandro Hernandez! 
 
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoWidth=20&label=alej.leon4&logoColor=#EA4335) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoWidth=20&label=alej.leon4&logoColor=#EA4335)](mailto:alej.leon4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoWidth=20&label=alej-leon&logoColor=dodgerblue)](https://www.linkedin.com/in/alej-leon/)
 
 ---
