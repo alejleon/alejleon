@@ -6,10 +6,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoWidth=20&label=alej-leon&logoColor=dodgerblue)](https://www.linkedin.com/in/alej-leon/)
 
 ---
-It took me 30 years to realize how much I enjoy, being around technology, knowing how things work, and elegant utilitarianism. I took a few detours but I'm finally home as a full-stack software developer.
+It took me a long time to realize how much I enjoy being around technology, knowing how things work, and elegant utilitarianism. I took a few detours but I'm home free as a full-stack software developer.
 
 
-- 💻 Full-stack software developer with a marketing background 📈 and an eye for design 🎨
+- 💻 Full-stack software developer with an eye for design 🎨
 - 📍 Based in Austin, TX 
 - 🎧 Avid music lover and record collector
 
